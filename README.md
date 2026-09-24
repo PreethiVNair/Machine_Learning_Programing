@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+I have kept my databace connection url in .env file which ill zip and send it via email.
+
 This project demonstrates a data engineering and exploratory data analysis workflow using Python, Pandas, and a PostgreSQL cloud database hosted on Neon.
 
 A synthetic employee dataset was generated using Python and the Faker library and stored in the PostgreSQL database. The data was then loaded into a Pandas DataFrame for cleaning, transformation, feature engineering, scaling, exploratory data analysis, and visualization.
